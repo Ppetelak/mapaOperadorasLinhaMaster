@@ -12,4 +12,4 @@ node inserir_tag.js
 
 #### Como atualizar
 - Acrescentar `old_` ao `index.html`
-- Remover `new_` do `new_index.html
+- Remover `new_` do `new_index.html`
